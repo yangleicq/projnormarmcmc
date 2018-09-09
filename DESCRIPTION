@@ -1,0 +1,13 @@
+Package: projnormarmcmc
+Type: Package
+Title: functions for projected normal AR model MCMC
+Version: 0.0.0.9000
+Authors@R: person("Lei", "Yang", email = "yangleicq@gmail.com", role = c("aut", "cre"))
+Description: functions for projected normal AR model MCMC
+License: MIT
+LazyData: TRUE
+RoxygenNote: 6.1.0
+Imports:
+	coda,
+	MASS,
+    tensorA
